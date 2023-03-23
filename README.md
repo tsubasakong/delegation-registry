@@ -1,6 +1,6 @@
 # delegate wallet
 For integrate with ip3 marketplace contracts (test purpose only).
-- support `warm` and `delegateCash`
+- support `warm` and `delegateCash`.
 
 ## deploy on localhost network
 
